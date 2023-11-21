@@ -1,0 +1,3 @@
+This folder houses data acquired from the literature. The "master_permeability_data_with_references.csv" file encompasses various gas permeability data of homopolymers along with their respective references and additional details. 
+This file was utilized to generate distinct CSV files for CO2, CH4, and N2 gas permeabilities. Units of gas permeabilities are in Barrer. The CO2/CH4 and CO2/N2 selectivity data were obtained by dividing the experimental permeabilities are also provided. 
+These data were used for training the gas permeability and selectivity ML models used in this work. 
